@@ -1,0 +1,14 @@
+POST http://localhost:4000/app/sign-up-Admin
+Content-Type: application/json
+
+{
+    "registered_by": "moderator",
+    "email": "y@.com",
+    "firstName":"wea",
+    "lastName":"ty",
+    "companyName": "i",
+    "role":"h",
+    "isAdmin": false,
+    "isModerator": false,
+    "password": "hi",
+}

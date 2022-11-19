@@ -1,0 +1,39 @@
+body{
+  background: #f8f8f8 !important;  /* fallback for old browsers */
+}
+
+.form{
+  background-color: #EDF2F4;
+  border-radius: 30px;
+  margin: 70px auto;
+  padding: 20px;
+  width: 260px;
+  height: 100%;
+}
+
+.form-body{
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-body > *{
+  padding: 5px;
+}
+
+.form__label{
+  width: 70%;
+}
+
+.form_input{
+  width: 60%;
+}
+
+.form_button {
+  background-color:#2274A5 ;
+  border-radius: 30px;
+
+}
+
+.footer{
+  text-align: center;
+}
